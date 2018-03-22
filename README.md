@@ -3,6 +3,7 @@
 ##### Server Info:
 * IP: 18.222.90.183
 * URL: http://18.222.90.183/home/
+* SSH port: 2200
 
 ##### Software Installed:
 * python 2.7
